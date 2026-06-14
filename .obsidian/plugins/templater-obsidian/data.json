@@ -15,19 +15,15 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "エレナ/キャラ対",
+      "folder": "26_エレナ/キャラ対",
       "template": "999_テンプレート/キャラ対策テンプレート.md"
     },
     {
-      "folder": "エレナ/コンボ",
+      "folder": "26_エレナ/コンボ",
       "template": "999_テンプレート/コンボまとめテンプレート.md"
     },
     {
-      "folder": "エレナ/デイリーメモ",
-      "template": "999_テンプレート/デイリーノートテンプレート.md"
-    },
-    {
-      "folder": "エレナ/バトルメモ",
+      "folder": "26_エレナ/バトルメモ",
       "template": "999_テンプレート/バトルテンプレート.md"
     }
   ],
